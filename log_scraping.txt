@@ -1,0 +1,27 @@
+Scraping Projekt. I dette dokument, vil jeg logge hvad jeg laver hver dag i mit
+lille scraping projekt. 
+
+31-03-2020:: 4 timer
+    Jeg har installet python og kite på min nye PC og forbundet en mappe til github. 
+    Planen er at lave de første øvelser fra Scraping-bogen og derefter at lave et nyt repo
+    på github, hvor jeg kan smide alt det her over i. Det kan desværre godt være at jeg
+    bliver nødt til at pushe fra min git-bash, da jeg endnu ikke har fundet en måde
+    at gøre det på igennem Spyder.
+    
+    Jeg fik lavet kapitel 1 og det lidt af kapitel 2. Jeg commitede og pushede mit arbejde
+    til github fra git-bash. Det fungerede egenltlig meget smertefrit, så det bliver bare det
+    jeg gør fremadrettet.
+
+01-04-2020:: 3 timer
+    Jeg fik lavet næsten hele kapitel 2. Kite har det med at lave autocomplete på en 
+    irriterende måde. Den tror nogen gange at den skal færdiggøre ordet, fra en position
+    inden der hvor min cursor er. Det betyder altså at der kommer til at være nogle bogstaver
+    efter ordet som jeg så skal slette... lidt wack.
+    
+02-04-2020::
+    færdig med kapitel 2.
+    Jeg lavede det meste af kapitel 3. Der er et langt program i slutningen af bogen, som
+    generaliserer at finde interne og eksterne links på en side. Jeg venter med at skrive
+    det ind til senere. Men husker det, da det virker ret brugbart.
+    
+
